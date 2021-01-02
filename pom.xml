@@ -33,7 +33,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <camel-version>2.11.1</camel-version>
+        <camel-version>3.7.0</camel-version>
         <derby-version>10.9.1.0</derby-version>
         <commons-dbcp-version>1.4</commons-dbcp-version>
     </properties>
